@@ -1,3 +1,6 @@
+(https://pin.it/4soWEqgRU)
+
+
 # 💫 About Me:
 Pursuing AI Engineering in University of Engineering & Management (UEM) <br>💻 CSE Student | 🌱 Learning & Building | 🚀 Passionate about Tech | <br>Web Development | Programming | and AI-driven projects
 
