@@ -1,4 +1,5 @@
-(https://pin.it/4soWEqgRU)
+<img width="735" height="490" alt="solar system planets" src="https://github.com/user-attachments/assets/ad12cf0c-4ddd-4a7f-85f9-8bba43270c34" />
+
 
 
 # 💫 About Me:
