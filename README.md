@@ -6,15 +6,93 @@
 Pursuing AI Engineering in University of Engineering & Management (UEM) <br>💻 CSE Student | 🌱 Learning & Building | 🚀 Passionate about Tech | <br>Web Development | Programming | and AI-driven projects
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TamØsaDey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tamosa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TamosaDey) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/CreationTown) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamosadey11@gmail.com) 
+## <p align="center">🌐 Connect With Me</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tamosa2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tamosa2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamosa2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Tamosa2006">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/TamosaDey">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:tamosadey11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/tamosa._">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.reddit.com/user/Miserable_Boot7605/">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/Tamosa_Dey">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+   <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="50" />
+  </a>
+</p>
+</p>
+
+## <p align="center"> 💻 Tech Stack </p>
+
+### 🧠 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🤖 AI / ML & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,ubuntu" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" />
+</p>
+
+## <p align="center">📊 GitHub Stats </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamosa2006&theme=github-dark&hide_border=true" width="700"/>
+</p>
+
+
+## <p align="center"> 📈 GitHub Activity </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamosa2006&theme=github-dark&hide_border=true&area=true&custom_title=Tamosa2006's%20Contribution%20Graph" width="100%"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tamosa2006&icon=0&color=8)](https://visitcount.itsvg.in)
