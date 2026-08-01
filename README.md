@@ -2,8 +2,38 @@
 
 
 
-# 💫 About Me:
-Pursuing AI Engineering in University of Engineering & Management (UEM) <br>💻 CSE Student | 🌱 Learning & Building | 🚀 Passionate about Tech | <br>Web Development | Programming | and AI-driven projects
+## <p align="center"> 💫 About Me <p>
+
+<p align="center">
+
+🎓 <b>CSE (AI) Student</b> @ University of Engineering & Management, Kolkata  
+🤖 <b>Future AI Engineer</b> | 🚀 <b>Aspiring Entrepreneur</b>  
+💻 Building with <b>AI, Full-Stack Development & Backend Technologies</b>  
+💡 Passionate about turning ideas into <b>real-world products & startups</b>  
+🌌 Curious about <b>Space & Emerging Technologies</b>
+
+</p>
+
+<details>
+<summary>🎮 <b>Click to view my Aims</b></summary>
+
+<br>
+
+> 🧠 **LEARN** — Building strong foundations in AI & Software Engineering.
+>
+> 🛠️ **BUILD** — Turning ideas into projects, products and solutions.
+>
+> 🚀 **CREATE** — Working towards launching my own startup in **2027**.
+>
+> 💡 **GROW** — Becoming an AI Engineer and Entrepreneur who builds meaningful technology.
+>
+> 🌌 **EXPLORE** — Staying curious about Space and the technologies shaping our future.
+
+<br>
+
+**🎯 Current Quest:** `Learn → Build → Create → Launch → Grow`
+
+</details>
 
 
 ## <p align="center">🌐 Connect With Me</p>
