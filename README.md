@@ -1,17 +1,14 @@
-<img width="735" height="490" alt="solar system planets" src="https://github.com/user-attachments/assets/ad12cf0c-4ddd-4a7f-85f9-8bba43270c34" />
-
-
 
 <!-- ==================== ABOUT ME ==================== -->
 
-<h2 align="center">👋 Hey, I'm Tamosa!</h2>
-
+<h1 align="center"> Hey, I'm Tamosa!</h2>
+<h2 align="center">👾 About Me</h3> 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-<h3>🚀 About Me</h3>
 
+<br>
 <p>
 I'm a <b>CSE (AI) student</b> passionate about building intelligent systems,
 creating real-world products, and turning ideas into something meaningful.
@@ -23,16 +20,17 @@ creating real-world products, and turning ideas into something meaningful.
 🌌 Interested in <b>Space & emerging technology</b><br>
 💡 Building, learning, and experimenting with new ideas
 </p>
+<br>
 <div align="center">
 
-𓍢ִ໋🪷 धैर्यं सर्वार्थसाधनम् ।
+<b> 𓍢ִ໋🪷 धैर्यं सर्वार्थसाधनम् । <b>
 
-Patience and perseverance are the means to accomplish everything.
+<i> Patience and perseverance are the means to accomplish everything. </i>
 
 </div>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=false&vCenter=true&width=500&lines=AI+%7C+FullStack+%7C+Entrepreneur;Wanna+become+so+skilled+!!!;Keep+clam+and+keep+coding." alt="Typing Animation" />
+<p align= "center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=false&vCenter=true&width=500&lines=AI+%7C+FullStack+%7C+Entrepreneur;Wanna+become+so+skilled+!!!;Keep+clam+and+keep+coding." alt="Typing Animation" />
 </p>
 
 
@@ -86,7 +84,7 @@ Patience and perseverance are the means to accomplish everything.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-
+<br>
 
 ## <p align="center">🌐 Connect With Me</p>
 
@@ -125,6 +123,8 @@ Patience and perseverance are the means to accomplish everything.
   </a>
 </p>
 </p>
+
+<br>
 
 ## <p align="center"> 💻 Tech Stack </p>
 
