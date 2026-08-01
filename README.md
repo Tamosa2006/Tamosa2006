@@ -2,38 +2,90 @@
 
 
 
-## <p align="center"> 💫 About Me <p>
+<!-- ==================== ABOUT ME ==================== -->
 
-<p align="center">
+<h2 align="center">👋 Hey, I'm Tamosa!</h2>
 
-🎓 <b>CSE (AI) Student</b> @ University of Engineering & Management, Kolkata  
-🤖 <b>Future AI Engineer</b> | 🚀 <b>Aspiring Entrepreneur</b>  
-💻 Building with <b>AI, Full-Stack Development & Backend Technologies</b>  
-💡 Passionate about turning ideas into <b>real-world products & startups</b>  
-🌌 Curious about <b>Space & Emerging Technologies</b>
+<table>
+<tr>
+<td width="65%" valign="top">
 
+<h3>🚀 About Me</h3>
+
+<p>
+I'm a <b>CSE (AI) student</b> passionate about building intelligent systems,
+creating real-world products, and turning ideas into something meaningful.
 </p>
 
+<p>
+🤖 My major focus is <b>Artificial Intelligence</b><br>
+🚀 Aspiring <b>Entrepreneur</b><br>
+🌌 Interested in <b>Space & emerging technology</b><br>
+💡 Building, learning, and experimenting with new ideas
+</p>
+<div align="center">
+
+𓍢ִ໋🪷 धैर्यं सर्वार्थसाधनम् ।
+
+Patience and perseverance are the means to accomplish everything.
+
+</div>
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=false&vCenter=true&width=500&lines=AI+%7C+FullStack+%7C+Entrepreneur;Wanna+become+so+skilled+!!!;Keep+clam+and+keep+coding." alt="Typing Animation" />
+</p>
+
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img width="1280" height="1279" alt="photo_6300969791107305561_y" src="https://github.com/user-attachments/assets/7692b957-e4e2-4d7f-85cf-d48d9dcbcd0f" />
 <details>
-<summary>🎮 <b>Click to view my Aims</b></summary>
+<summary><b>🚀 Click to Explore My Aim</b></summary>
 
 <br>
 
-> 🧠 **LEARN** — Building strong foundations in AI & Software Engineering.
->
-> 🛠️ **BUILD** — Turning ideas into projects, products and solutions.
->
-> 🚀 **CREATE** — Working towards launching my own startup in **2027**.
->
-> 💡 **GROW** — Becoming an AI Engineer and Entrepreneur who builds meaningful technology.
->
-> 🌌 **EXPLORE** — Staying curious about Space and the technologies shaping our future.
+🔹 <b>01 : Learn</b><br>
+   Build a strong foundation in AI, ML, and software development.
 
-<br>
+⬇️
 
-**🎯 Current Quest:** `Learn → Build → Create → Launch → Grow`
+🔹 <b>02 : Build</b><br>
+   Create real-world projects and experiment with new technologies.
+
+⬇️
+
+🔹 <b>03 : Innovate</b><br>
+   Explore the intersection of AI, technology, and my interest in space.
+
+⬇️
+
+🔹 <b>04 : Launch</b><br>
+   Turn ideas into products and launch my startup in <b>2027</b> 🚀
+
+⬇️
+
+🔹 <b>05 : Become</b><br>
+   Grow into an AI-focused entrepreneur and build technology that matters.
 
 </details>
+
+
+<br><br>
+
+
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 
 ## <p align="center">🌐 Connect With Me</p>
