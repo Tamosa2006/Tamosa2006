@@ -40,7 +40,7 @@ creating real-world products, and turning ideas into something meaningful.
 
 <img width="1280" height="1279" alt="photo_6300969791107305561_y" src="https://github.com/user-attachments/assets/7692b957-e4e2-4d7f-85cf-d48d9dcbcd0f" />
 <details>
-<summary><b>🚀 Click to Explore My Aim</b></summary>
+<summary><b>🧿 Click to Explore My Aim</b></summary>
 
 <br>
 
