@@ -30,7 +30,7 @@ creating real-world products, and turning ideas into something meaningful.
 </div>
 
 <p align= "center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=false&vCenter=true&width=500&lines=AI+%7C+FullStack+%7C+Entrepreneur;Wanna+become+so+skilled+!!!;Keep+clam+and+keep+coding." alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=false&vCenter=true&width=500&lines=AI+%7C+FullStack+%7C+Entrepreneur;Wanna+become+so+skilled+!!!;Keep+calm+and+keep+coding." alt="Typing Animation" />
 </p>
 
 
